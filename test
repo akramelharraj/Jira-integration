@@ -1,7 +1,7 @@
 echo "# Jira-integration" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+$ git commit -m “XRD-1 This is my commit message”
 git branch -M main
 git remote add origin https://github.com/akramelharraj/Jira-integration.git
 git push -u origin main
