@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/akramelharraj/Jira-integration.git
 git push -u origin main
 git checkout -bXRD-1-<test>
+test
